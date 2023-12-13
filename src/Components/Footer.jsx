@@ -14,9 +14,9 @@ function Footer(){
             </div>
             <div class="col-lg-12">
               <div class="copyright-text">
-                <p>Copyright 2020 Stand Blog Co.
+                <p>Demo react app by Jpsoft
                       
-                   | Design: <a rel="nofollow" href="https://templatemo.com" target="_parent">TemplateMo</a></p>
+                   | Design: Abhishek</p>
               </div>
             </div>
           </div>
